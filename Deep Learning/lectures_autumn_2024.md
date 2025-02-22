@@ -6,18 +6,30 @@
 
 Для успешного освоения материалов курса необходимо обладать следующими знаниями:
 
-* Программирование на Python (рекомендуем [МФК “Основы программирования и анализа данных на Python”](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024)).
-* Линейная алгебра, оптимизация, статистика (рекомендуем [факультатив "Математика для анализа данных"](https://teach-in.ru/course/mathematics-for-data-analysis-artamonov))
-* Основы машинного обучения (рекомендуем [МФК “Машинное обучение для решения прикладных задач”](https://teach-in.ru/course/introduction-to-dl-2024)).
+* Программирование на Python (рекомендуем [МФК “Основы программирования и анализа данных на Python”](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/lectures_spring_2023.md)).
+* Линейная алгебра, оптимизация, статистика (рекомендуем [факультатив "Математика для анализа данных"](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math))
+* Основы машинного обучения (рекомендуем [МФК “Машинное обучение для решения прикладных задач”](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Machine%20Learning/lectures_spring_2023.md)).
 
 Продолжительность: 1 семестр (12 лекций).
 
 ## 📋 Содержание
 
-Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
-|:----:|----|:----:|:----:|:----:|
-|19.02.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/a07c58b61f3b5dcf27dc698bc364d9c4/) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
+Дата лекции | Запись лекции | Конспект | 
+|:----:|----|:----:|
+|25.09.2024| [Лекция 1. Вводная лекция](https://teach-in.ru/lecture/2024-09-25-Artamonov-2) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |
+|02.10.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://teach-in.ru/lecture/2024-10-02-Artamonov-2) | [Конспект 2](https://colab.research.google.com/drive/1T7ETpxt9tWJV2-Z5lZp5P0hGzwkYDUPT) | 
+|09.10.2024| [Лекция 3. Обучение по батчам, регуляризация](https://teach-in.ru/lecture/2024-10-09-Artamonov-2) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | 
+|16.10.2024| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://teach-in.ru/lecture/2024-10-16-Artamonov-2) | [Конспект 4](https://colab.research.google.com/drive/16EabDlrFBxOfcg3WADIC9kX51c6YzA4s) | 
+|23.10.2024| [Лекция 5. Transfer Learning](https://teach-in.ru/lecture/2024-10-23-Artamonov-2) | [Конспект 5](https://colab.research.google.com/drive/1FgzC6ZwZTnpme5JZKvEYtduGq56A6lBR?usp=sharing) | 
+|06.11.2024| [Лекция 6. Эмбеддинги, word2vec](https://teach-in.ru/lecture/2024-11-06-Artamonov-2) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | 
+|13.11.2024| [Лекция 7. RNN и классификация текста](https://teach-in.ru/lecture/2024-11-13-Artamonov-2) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7#scrollTo=mB0wDyZjrxKF ) | 
+|20.11.2024| [Лекция 8. Языковое моделирование](https://teach-in.ru/lecture/2024-11-20-Artamonov-2) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | 
+|27.11.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://teach-in.ru/lecture/2024-11-27-Artamonov-2) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | 
+|04.12.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция](https://teach-in.ru/lecture/2024-12-04-Artamonov-2) | [Конспект 10](https://colab.research.google.com/drive/1KOrDYLKY6PpHgyDTdIHvAXvNcqGzqAsk) | 
+|11.12.2024| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://teach-in.ru/lecture/2024-12-11-Artamonov-2) | [Конспект 11](https://colab.research.google.com/drive/1ZGn0jDh5LsC_QYBzJU-pcqXpUNXxDAsT) | 
+|18.12.2024| [Лекция 12. Что дальше?](https://teach-in.ru/lecture/2024-12-18-Artamonov-2) | [Презентация](https://docs.google.com/presentation/d/1c1qDZGxXhnJ_puqCIyPysLmgH5TlFZ9z/edit) |
 
+* [Rutube плейлист с видеозаписями лекций](https://rutube.ru/plst/593734)
 
 ## 📝 Ссылки и дополнительная литература
 
@@ -92,3 +104,8 @@ Ru:
 * [Как пользоваться Яндекс.Контестом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/yandex_contest.md)
 * [На что обращать внимание при работе с вводом-выводом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/input-output.md)
 * [Как использовать Google Colab в качестве среды разработки?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/GoogleColab.md)
+
+## 📞 Контакты
+* [Телеграм-канал](https://t.me/+p52yYKfqD040NGMy) с основной информацией по курсу
+* [Телеграм-чат](https://t.me/+UcXax0tW_3JhZmJi) для вопросов, связанных с курсом
+* [Телеграм-бот](https://t.me/msumfk_bot) для получения доступа к домашним заданиям, записи на консультации и вопросов, связанных с курсом
